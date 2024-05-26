@@ -1,3 +1,9 @@
+## 3.1.0
+* updated dependencies
+* updated `flutter_compass_v2` version
+* added 'accuracy' value
+* updated android implementation
+
 ## 3.0.3
 
 * updated `flutter_compass_v2` version
