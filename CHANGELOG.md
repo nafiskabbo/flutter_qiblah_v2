@@ -1,3 +1,8 @@
+## 3.1.2
+* Remove 'Registrar' for flutter 3.29.0 support
+* updated dependencies
+* Optimize location tracking in Flutter Qiblah for improved battery efficiency by https://github.com/Faizan-26 [parent library]
+
 ## 3.1.0
 * updated dependencies
 * updated `flutter_compass_v2` version
